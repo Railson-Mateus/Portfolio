@@ -1,9 +1,9 @@
 # Portfolio-Railson Mateus
 
-##Descrição:
+## Descrição:
 
     * Pagina inicial do portfolio com menu sidebar estilizada com CSS.
 
-##CONTRIBUINDO:
+## CONTRIBUINDO:
 
     __Railson Mateus__
